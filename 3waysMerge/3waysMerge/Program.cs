@@ -11,10 +11,10 @@ namespace _3waysMerge
     {
         static void Main(string[] args)
         {
-            string parentPath = "D://parent.txt";
-            string leftChildPath = "D://child_left.txt";
-            string rightChildPath = "D://child_right.txt";
-            string resultPath = "D://merge_result.txt";
+            string parentPath;
+            string leftChildPath;
+            string rightChildPath;
+            string resultPath;
 
             Console.WriteLine("Input path to parent file:");
             parentPath = Console.ReadLine();
