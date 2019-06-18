@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\3waysMerge\3waysMerge\bin\Debug\netcoreapp2.1\3waysMerge.deps.json
+C:\Users\User\source\repos\3waysMerge\3waysMerge\bin\Debug\netcoreapp2.1\3waysMerge.runtimeconfig.json
+C:\Users\User\source\repos\3waysMerge\3waysMerge\bin\Debug\netcoreapp2.1\3waysMerge.runtimeconfig.dev.json
+C:\Users\User\source\repos\3waysMerge\3waysMerge\bin\Debug\netcoreapp2.1\3waysMerge.dll
+C:\Users\User\source\repos\3waysMerge\3waysMerge\bin\Debug\netcoreapp2.1\3waysMerge.pdb
+C:\Users\User\source\repos\3waysMerge\3waysMerge\obj\Debug\netcoreapp2.1\3waysMerge.csprojAssemblyReference.cache
+C:\Users\User\source\repos\3waysMerge\3waysMerge\obj\Debug\netcoreapp2.1\3waysMerge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3waysMerge\3waysMerge\obj\Debug\netcoreapp2.1\3waysMerge.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\3waysMerge\3waysMerge\obj\Debug\netcoreapp2.1\3waysMerge.AssemblyInfo.cs
+C:\Users\User\source\repos\3waysMerge\3waysMerge\obj\Debug\netcoreapp2.1\3waysMerge.dll
+C:\Users\User\source\repos\3waysMerge\3waysMerge\obj\Debug\netcoreapp2.1\3waysMerge.pdb
